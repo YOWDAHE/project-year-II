@@ -1,6 +1,4 @@
 #pragma once
-// #ifndef _DATA.H
-// #define _DATA.H
 
 #include <iostream>
 #include <vector>
@@ -51,6 +49,3 @@ const char* sys = "cls";
 
 
 vector <car> cars;
-//  = {{"Abel Aregaw", "1234567890", "both", "yellow Toyota corrola", "Piassa", "A345030", "committer", "2", "0", "drunk driving"}};
-
-// #endif
