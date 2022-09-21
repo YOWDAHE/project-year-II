@@ -1,0 +1,5 @@
+yordanos syoum,1234567890,both,yellow Toyota corrola,Piassa,A345030,committer,2,0,drunk driving
+rediet tekia,1234567890,both,red Toyota corrola,Piassa,A345030,committer,2,0,drunk driving
+yodahe ketema,1234567890,both,blue Toyota,Piassa,A345030,committer,2,0,drunk driving
+nura kemal,0987654321,third person,ed ford 2oo1,jemo,A12345,Committer,0,0,raffodahe ketema,1234567890,third person,ed toyotq corolla,jemo,A12345,Committer,2,1,speedraffic jam
+the name,1234567890,third person,qwr gqwerg,qwrg,12345,Victim,2,0,qreg qer ggqer
